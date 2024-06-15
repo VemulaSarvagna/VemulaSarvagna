@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-✨ABOUT ME✨ 🦋 I am a Computer Science and Engineering Undergraduate at Srinivasa Ramanujan Institute of Technology, Anantapur. 🦋 I love Competitive Programming, Web development and learning new skills. ✨MY VALUES✨ 🦋 Beginner's mindset and curiosity. 🦋 Positive towards everything 🦋 Works hard on tasks till the goal is achieved. 🦋 A great learner.
+✨ABOUT ME✨ 
+
+🦋 I am a Computer Science and Engineering Undergraduate at Srinivasa Ramanujan Institute of Technology, Anantapur.
+🦋 I love Competitive Programming, Web development and learning new skills. 
+
+✨MY VALUES✨ 
+
+🦋 Beginner's mindset and curiosity. 
+🦋 Positive towards everything 
+🦋 Works hard on tasks till the goal is achieved. 
+🦋 A great learner.
 
 *   🧠  I'm learning Machine Learning### Skills 
 <p align="left">
